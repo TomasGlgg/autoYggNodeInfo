@@ -74,3 +74,12 @@ Done.
     ]
 }
 ```
+
+____
+Мой VK: http://vk.com/tmsconsole
+
+Bitmessage: BM-2cWVVbnxwNDYYuJJcwqD7yk6GSGWqsw1n3
+
+IPv6 Yggdrasil:
+* 201:96c:bfe4:2109:f07d:16ab:a08:e437
+* 200:aeab:e409:86d3:54a1:3048:e0f9:cce9
