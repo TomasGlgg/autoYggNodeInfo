@@ -1,0 +1,4 @@
+{
+  "update": "date +%T%Z",
+  "load": "python3 load.py"
+}
