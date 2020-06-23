@@ -1,1 +1,1 @@
-@hourly /home/user/autoYggNodeInfo/update.py 
+@hourly python3 /home/user/autoYggNodeInfo/update.py /etc/yggdrasil.conf /etc/yggdrasil.conf
