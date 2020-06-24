@@ -2,7 +2,7 @@ import json, subprocess
 
 
 def update_config(data):  # update config
-    settings = json.load(open('settings.json'))
+    settings = json.load(open(__file__+'/settings.json'))
     for name in settings:
         command = settings[name]
         process = subprocess.Popen(command, shell=True, stdout=subprocess.PIPE)
